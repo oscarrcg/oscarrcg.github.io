@@ -1,13 +1,18 @@
-subject: Awards
-listing-order: 6
-icon: "/assets/img/trophy.svg"
+subject: Certifications
+listing-order: 4
+icon: "/assets/img/award.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Google Cybersecurity Professional Certificate
+    date: Recent
+    description:
+      - "Hands-on training in network security, threat detection, incident response, and cybersecurity tools (Python, Linux, SQL, Wireshark)."
+
+  - title: ISC2 Certified in Cybersecurity (CC)
+    date: Recent
+    description:
+      - "Validated foundational knowledge of security principles, network security, access controls, incident response, and business continuity."
+
+  - title: Project Management & Agile Methodologies
+    date: Recent
+    description:
+      - "Applied framework principles for managing high-scale engineering projects and coordinating cross-functional technical teams."
