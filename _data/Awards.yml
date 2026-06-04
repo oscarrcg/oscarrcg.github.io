@@ -2,17 +2,17 @@ subject: Certificates
 listing-order: 4
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: "Google Cybersecurity Professional Certificate"
-    date: "Apr. 2025"
-    description:
-      - "Hands-on training in network security, threat detection, incident response, and cybersecurity tools (Python, Linux, SQL, Wireshark)."
-      - "<a href='https://coursera.org/verify/professional-cert/L3TNSTVG7FTR' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
-
   - title: "ISC2 Certified in Cybersecurity (CC)"
     date: "Mar. 2025"
     description:
       - "Validated foundational knowledge of security principles, network security, access controls, incident response, and business continuity."
       - "<a href='https://www.credly.com/badges/acbaaeb1-18a3-4f59-ac84-b5b011066d54' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
+
+  - title: "Google Cybersecurity Professional Certificate"
+    date: "Apr. 2025"
+    description:
+      - "Hands-on training in network security, threat detection, incident response, and cybersecurity tools (Python, Linux, SQL, Wireshark)."
+      - "<a href='https://coursera.org/verify/professional-cert/L3TNSTVG7FTR' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
 
   - title: "Google Project Management Certificate"
     date: "Jan. 2024"
