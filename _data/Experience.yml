@@ -29,3 +29,25 @@ contents:
     date: Jul. 2016 - May 2017
     description:
       - "Built Java/PLSQL solutions for insurance workflows, optimizing SQL queries by 30%."
+
+  - title: BBVA, QA & Systems Developer
+    date: Approx. 2014 - 2016
+    description:
+      - "Executed comprehensive QA testing and validation for POS (TPV) banking terminals from industry-leading brands like Ingenico and Verifone."
+      - "Maintained and optimized the web platform responsible for deploying firmware and software updates to active banking terminals."
+
+  - title: Grupo Salinas, Software Engineer
+    date: Approx. 2013 - 2014
+    description:
+      - "Built enterprise applications and optimized internal processes utilizing programming languages and databases."
+
+  - title: CFE (Comisión Federal de Electricidad), Mobile & IT Developer
+    date: Approx. 2012 - 2013
+    description:
+      - "Designed and developed a native Android application to visualize renewable energy plants on an interactive map leveraging ArcGIS APIs."
+      - "Integrated geospatial data and optimized map rendering performance for critical infrastructure monitoring."
+
+  - title: Mercedes-Benz & Volkswagen, Robotics & Automation Programmer
+    date: Approx. 2012
+    description:
+      - "Programmed industrial welding robots and automated manufacturing workflows, focusing on logic optimization and efficiency."
