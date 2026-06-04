@@ -1,4 +1,4 @@
-title: Title of your CV site
+title: CV - Oscar Carrillo
 profile_img: /assets/img/profile.webp
 icon_img: /assets/img/icon.webp
 
@@ -13,7 +13,7 @@ github_username: github
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: https://github.com/oscarrcg
+baseurl: ""
 
 exclude:
   - _posts/
