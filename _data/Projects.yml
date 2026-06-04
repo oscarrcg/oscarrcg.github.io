@@ -3,13 +3,11 @@ listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Automated Invoice Processing System (Playwright & Python)"
-    img: "/assets/img/costco-automation-code.png"
     description:
       - "Developed a personal automation tool that parses automated emails to extract specific receipt metadata, including transaction numbers and total amounts."
       - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular's framework context (__ngContext__), and execute automated billing end-to-end."
 
   - title: "DevSecOps Pipeline Orchestration & Security Automation"
-    img: "/assets/img/icon.webp"
     description:
       - "Designed and implemented end-to-end CI/CD pipelines integrating automated security testing (SAST/DAST) into deployment workflows."
       - "Automated vulnerability scanning to 'shift-left' security, reducing post-deployment application risks by triggering real-time alerts and reports."
