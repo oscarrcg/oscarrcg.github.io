@@ -1,18 +1,20 @@
-subject: Certifications
+subject: Certificates
 listing-order: 4
-icon: "/assets/img/award.svg"
+icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Google Cybersecurity Professional Certificate
-    date: Recent
+  - title: "Google Cybersecurity Professional Certificate"
+    date: "2024"
     description:
       - "Hands-on training in network security, threat detection, incident response, and cybersecurity tools (Python, Linux, SQL, Wireshark)."
+      - "<a href='TU_LINK_AQUI' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
 
-  - title: ISC2 Certified in Cybersecurity (CC)
-    date: Recent
+  - title: "ISC2 Certified in Cybersecurity (CC)"
+    date: "2024"
     description:
       - "Validated foundational knowledge of security principles, network security, access controls, incident response, and business continuity."
+      - "<a href='TU_LINK_AQUI' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
 
-  - title: Project Management & Agile Methodologies
-    date: Recent
+  - title: "Project Management & Agile Methodologies"
+    date: "2023"
     description:
       - "Applied framework principles for managing high-scale engineering projects and coordinating cross-functional technical teams."
