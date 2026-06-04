@@ -3,18 +3,30 @@ listing-order: 4
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: "Google Cybersecurity Professional Certificate"
-    date: "2024"
+    date: "Apr. 2025"
     description:
       - "Hands-on training in network security, threat detection, incident response, and cybersecurity tools (Python, Linux, SQL, Wireshark)."
-      - "<a href='TU_LINK_AQUI' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
+      - "<a href='https://coursera.org/verify/professional-cert/L3TNSTVG7FTR' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
 
   - title: "ISC2 Certified in Cybersecurity (CC)"
-    date: "2024"
+    date: "Mar. 2025"
     description:
       - "Validated foundational knowledge of security principles, network security, access controls, incident response, and business continuity."
-      - "<a href='TU_LINK_AQUI' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
+      - "<a href='https://www.credly.com/badges/acbaaeb1-18a3-4f59-ac84-b5b011066d54' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
 
-  - title: "Project Management & Agile Methodologies"
-    date: "2023"
+  - title: "Google Project Management Certificate"
+    date: "Jan. 2024"
     description:
-      - "Applied framework principles for managing high-scale engineering projects and coordinating cross-functional technical teams."
+      - "Applied framework principles for managing high-scale engineering projects, agile methodologies, and coordinating cross-functional technical teams."
+      - "<a href='https://coursera.org/verify/professional-cert/KN3Y4EVVG6ZM' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
+
+  - title: "AWS Cloud Practitioner (Training)"
+    date: "Mar. 2023"
+    description:
+      - "Cloud-native infrastructure training covering core AWS services, security, architecture, pricing, and support models."
+
+  - title: "Google Data Analytics Professional Certificate"
+    date: "Feb. 2023"
+    description:
+      - "Training in data cleaning, analysis, and visualization using spreadsheets, SQL, Tableau, and R programming to drive data-informed decisions."
+      - "<a href='https://coursera.org/verify/professional-cert/KES9HSWAAWNU' target='_blank' style='color: #4a7c59; font-weight: bold;'>[Verify Credential]</a>"
