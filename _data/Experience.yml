@@ -1,22 +1,31 @@
-subject: Experiences
+subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Briq, Automation Java Developer
+    date: Aug. 2025 - Present
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - "Developed automation robots for the construction industry to streamline financial operations, focusing on invoice processing.[cite: 1]"
+      - "Utilized Java alongside Selenium, Sikuli, and Windows Inspect tools to enhance automation efficiency.[cite: 1]"
+      - "Troubleshot and resolved operational bottlenecks within automated workflows, ensuring high availability and seamless execution of financial processes.[cite: 1]"
+
+  - title: Thomson Reuters, Senior QA Engineer
+    date: Sep. 2021 - Jul. 2025
+    description:
+      - "Architected and maintained CI/CD pipelines from scratch using GitHub Actions and Jenkins, streamlining automated workflows and troubleshooting deployment bottlenecks.[cite: 1]"
+      - "Led security integration into CI/CD pipelines by embedding SAST/DAST tools (Veracode, Snyk), shifting security left and reducing application vulnerabilities by 40%.[cite: 1]"
+      - "Designed and implemented automated testing frameworks (Java, TestNG) to ensure secure, compliant, and reliable software delivery.[cite: 1]"
+      - "Monitored high-load production systems via Splunk and DataDog, correlating security logs and performance events to proactively mitigate risks.[cite: 1]"
+      - "Developed and executed comprehensive API and UI automation test suites using Postman and Playwright (JavaScript).[cite: 1]"
+
+  - title: United Services Automobile Association (USAA), Systems Developer
+    date: Apr. 2019 - Sep. 2021
+    description:
+      - "Migrated legacy Java 6/7 financial systems to Java 8/11, improving performance by 25%.[cite: 1]"
+      - "Implemented Apache Kafka to process 15GB/day of sensitive financial data (loans, insurance claims).[cite: 1]"
+      - "Developed comprehensive unit and integration tests (JUnit, TestNG) for critical services.[cite: 1]"
+
+  - title: Zurich-Santander, Oracle Programmer Jr.
+    date: Jul. 2016 - May 2017
+    description:
+      - "Built Java/PLSQL solutions for insurance workflows, optimizing SQL queries by 30%.[cite: 1]"
