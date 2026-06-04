@@ -5,7 +5,9 @@ contents:
   - title: "Automated Invoice Processing System (Playwright & Python)"
     description:
       - "Developed a personal automation tool that parses automated emails to extract specific receipt metadata, including transaction numbers and total amounts."
-      - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular's framework context (__ngContext__), and execute automated billing end-to-end."
+      - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular’s framework context (**ngContext**), and execute automated billing end-to-end."
+      - "You can view the main code structure and workflow right here: [View Source Image](/assets/img/costco-automation-code.png)"
+    image: "![](/assets/img/costco-automation-code.png)"
 
   - title: "DevSecOps Pipeline Orchestration & Security Automation"
     description:
