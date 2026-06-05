@@ -15,7 +15,3 @@ contents:
       - "Generates professional HTML reports with color-coded risk levels and sends automated email alerts."
       - "[View repository on GitHub](https://github.com/oscarrcg/ThreatPulse)"
     image: "![](/assets/img/threatpulse-report.png)"
-  - title: "DevSecOps Pipeline Orchestration & Security Automation"
-    description:
-      - "Designed and implemented end-to-end CI/CD pipelines integrating automated security testing (SAST/DAST) into deployment workflows."
-      - "Automated vulnerability scanning to 'shift-left' security, reducing post-deployment application risks by triggering real-time alerts and reports."
