@@ -8,7 +8,13 @@ contents:
       - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular’s framework context (**ngContext**), and execute automated billing end-to-end."
       - "You can view the main code structure and workflow right here: [View Source Image](/assets/img/costco-automation-code.png)"
     image: "![](/assets/img/costco-automation-code.png)"
-
+  - title: "ThreatPulse - Automated Threat Detection from Logs"
+    description:
+      - "Cybersecurity tool that analyzes web server logs to detect malicious IPs using attack patterns and traffic thresholds."
+      - "Integrates AbuseIPDB API for external threat intelligence enrichment (Abuse Confidence Score)."
+      - "Generates professional HTML reports with color-coded risk levels and sends automated email alerts."
+      - "[View repository on GitHub](https://github.com/oscarrcg/ThreatPulse)"
+    image: "![](/assets/img/threatpulse-report.png)"
   - title: "DevSecOps Pipeline Orchestration & Security Automation"
     description:
       - "Designed and implemented end-to-end CI/CD pipelines integrating automated security testing (SAST/DAST) into deployment workflows."
