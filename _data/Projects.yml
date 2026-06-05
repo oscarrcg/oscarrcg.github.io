@@ -2,12 +2,6 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Automated Invoice Processing System (Playwright & Python)"
-    description:
-      - "Developed a personal automation tool that parses automated emails to extract specific receipt metadata, including transaction numbers and total amounts."
-      - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular’s framework context (**ngContext**), and execute automated billing end-to-end."
-      - "You can view the main code structure and workflow right here: [View Source Image](/assets/img/costco-automation-code.png)"
-    image: "![](/assets/img/costco-automation-code.png)"
   - title: "ThreatPulse - Automated Threat Detection from Logs"
     description:
       - "Cybersecurity tool that analyzes web server logs to detect malicious IPs using attack patterns and traffic thresholds."
@@ -15,3 +9,10 @@ contents:
       - "Generates professional HTML reports with color-coded risk levels and sends automated email alerts."
       - "[View repository on GitHub](https://github.com/oscarrcg/ThreatPulse)"
     image: "![](/assets/img/threatpulse-report.png)"
+  - title: "Automated Invoice Processing System (Playwright & Python)"
+    description:
+      - "Developed a personal automation tool that parses automated emails to extract specific receipt metadata, including transaction numbers and total amounts."
+      - "Engineered an advanced automation script using Playwright to navigate commercial portals, inject data directly into Angular’s framework context (**ngContext**), and execute automated billing end-to-end."
+      - "You can view the main code structure and workflow right here: [View Source Image](/assets/img/costco-automation-code.png)"
+    image: "![](/assets/img/costco-automation-code.png)"
+    
