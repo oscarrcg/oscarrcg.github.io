@@ -7,46 +7,40 @@ contents:
     description:
       - "Developed automation robots for the construction industry to streamline financial operations, focusing on invoice processing."
       - "Utilized Java alongside Selenium, Sikuli, and Windows Inspect tools to enhance automation efficiency."
+      - "Built roughly 20 automation robots from scratch on top of an internal Selenium/Sikuli framework, and contributed close to 300 merge requests over the past year fixing and extending existing robots."
       - "Troubleshot and resolved operational bottlenecks within automated workflows, ensuring high availability and seamless execution of financial processes."
-
-  - title: Thomson Reuters, Senior QA Engineer
+  - title: Thomson Reuters, QA Automation Engineer — Security & Testing
     date: Sep. 2021 - Jul. 2025
     description:
-      - "Architected and maintained CI/CD pipelines from scratch using GitHub Actions and Jenkins, streamlining automated workflows and troubleshooting deployment bottlenecks."
-      - "Led security integration into CI/CD pipelines by embedding SAST/DAST tools (Veracode, Snyk), shifting security left and reducing application vulnerabilities by 40%."
-      - "Designed and implemented automated testing frameworks (Java, TestNG) to ensure secure, compliant, and reliable software delivery."
-      - "Monitored high-load production systems via Splunk and DataDog, correlating security logs and performance events to proactively mitigate risks."
-      - "Developed and executed comprehensive API and UI automation test suites using Postman and Playwright (JavaScript)."
-
+      - "Designed and implemented automated testing frameworks (Java, TestNG) and built comprehensive API and UI automation test suites using Postman and Playwright (JavaScript) across all 4 years in the role."
+      - "Maintained and extended CI/CD pipelines using Jenkins (pre-existing) and GitHub Actions, authoring roughly 3-4 new GitHub Actions workflows from scratch."
+      - "In the final 2 years, took on application security responsibilities: reviewed and remediated vulnerabilities flagged by SAST/DAST tools (Veracode, Snyk), contributing to a 40% reduction in application vulnerabilities."
+      - "Monitored high-load production systems via Splunk and DataDog, correlating security logs and performance events to proactively flag risk."
   - title: United Services Automobile Association (USAA), Systems Developer
     date: Apr. 2019 - Sep. 2021
     description:
       - "Migrated legacy Java 6/7 financial systems to Java 8/11, improving performance by 25%."
       - "Implemented Apache Kafka to process 15GB/day of sensitive financial data (loans, insurance claims)."
+      - "Deployed application changes into Kubernetes-based pods on OpenShift as part of the standard release process, working within infrastructure configured and managed by a dedicated platform team."
       - "Developed comprehensive unit and integration tests (JUnit, TestNG) for critical services."
-
   - title: Zurich-Santander, Oracle Programmer Jr.
     date: Jul. 2016 - May 2017
     description:
       - "Built Java/PLSQL solutions for insurance workflows, optimizing SQL queries by 30%."
-
   - title: BBVA, QA & Systems Developer
     date: Approx. 2014 - 2016
     description:
       - "Executed comprehensive QA testing and validation for POS (TPV) banking terminals from industry-leading brands like Ingenico and Verifone."
       - "Maintained and optimized the web platform responsible for deploying firmware and software updates to active banking terminals."
-
   - title: Grupo Salinas, Software Engineer
     date: Approx. 2013 - 2014
     description:
       - "Built enterprise applications and optimized internal processes utilizing programming languages and databases."
-
   - title: CFE (Comisión Federal de Electricidad), Mobile & IT Developer
     date: Approx. 2012 - 2013
     description:
       - "Designed and developed a native Android application to visualize renewable energy plants on an interactive map leveraging ArcGIS APIs."
       - "Integrated geospatial data and optimized map rendering performance for critical infrastructure monitoring."
-
   - title: Mercedes-Benz & Volkswagen, Robotics & Automation Programmer
     date: Approx. 2012
     description:
