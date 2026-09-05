@@ -8,17 +8,18 @@ contents:
       - "SAST/DAST (Veracode, Snyk)"
       - "CI/CD (GitHub Actions, Jenkins, GitLab)"
       - "Docker, JFrog, Splunk, DataDog"
-
   - title: "Languages"
     description:
       - "Java, JavaScript, SQL, Python"
-
   - title: "Frameworks & Automation"
     description:
       - "Spring Boot, Hibernate, TestNG, Playwright"
       - "Postman, JUnit, Selenium, Sikuli"
-
   - title: "Data Processing & Databases"
     description:
       - "Apache Kafka"
       - "MySQL, Oracle, SQL Server, PostgreSQL"
+  - title: "RPA & ERP Automation"
+    description:
+      - "Selenium, Sikuli, OCR-based data extraction"
+      - "Sage 50, Sage Intacct, Microsoft Dynamics 365, Vista by Viewpoint, COINS, CMiC, Foundation, Jonas"
